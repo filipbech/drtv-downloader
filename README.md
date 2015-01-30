@@ -8,5 +8,5 @@ Of cause you shouldn't download stuff, if you are not allowed. Be responsible - 
 * Click the bookmark when on a dr.dk/tv site
 
 ```js
-javascript:jQuery.getScript('https://raw.githubusercontent.com/filipbech/drtv-downloader/master/magic.js');
+javascript:jQuery.getScript('https://rawgit.com/filipbech/drtv-downloader/master/magic.js');
 ```
